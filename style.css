@@ -159,6 +159,7 @@ hr {
     color: white;
     border: 1px solid #FF0000;
     border-radius: 2px;
+    text-decoration: none;
 }
 
 #footer {
