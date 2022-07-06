@@ -58,7 +58,6 @@ input {
     border: none;
     outline: none;
     margin-left: 46%;
-
 }
 
 hr {
@@ -73,7 +72,6 @@ hr {
 
 .donate-para {
     text-align: center;
-
 }
 
 .donate-today {
@@ -83,31 +81,24 @@ hr {
 .money-amount {
     display: flex;
     margin-left: 33%;
-
-
-
 }
 
 .money-amount h3 {
     background-color: rgb(226, 226, 226);
     padding: 15px;
     margin: 10px;
-
 }
 
 #money-color {
     background-color: pink;
     border: 1px solid red;
     color: red;
-
 }
 
 .donate-plan-container {
     display: flex;
     margin-left: 10%;
     margin-right: 10%;
-
-
 }
 
 .donate-plan-child {
@@ -130,4 +121,61 @@ hr {
 
 .color3 {
     background-color: rgb(244, 233, 206);
+}
+
+
+.our-activity1 {
+    display: flex;
+    margin-left: 27%;
+    margin-right: 30%;
+    width: 72%;
+}
+
+.our-activity1 img {
+    width: 20%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#subscribe-div {
+    display: flex;
+    background-color: #FFF4D6;
+    padding: 40px;
+    width: 50%;
+    margin-left: 23%;
+    margin-right: 20%;
+}
+
+.subscribe {
+    background-color: rgb(224, 217, 217);
+    padding: 10px;
+    margin-left: 252px;
+}
+
+.subscribe-button {
+    background-color: #FF0000;
+    padding: 10px;
+    margin-right: 2px;
+    color: white;
+    border: 1px solid #FF0000;
+    border-radius: 2px;
+}
+
+#footer {
+    background-color: black;
+    padding: 20px;
+}
+
+#last-msg1 {
+    font-style: italic;
+    font-weight: 900;
+    color: #FF5959;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+#last-msg2 {
+    color: white;
+    text-align: center;
 }
