@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.bg-image {
+    background-image: linear-gradient(rgba(47, 45, 45, 0.52), rgba(25, 24, 24, 0.73)),
+        url("images/donation3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    background-position: center;
+}
+
+.main-heading-div {
+    position: absolute;
+    top: 27%;
+    right: 16%;
+    text-align: center;
+}
+
+.main-heading {
+    color: white;
+    font-size: 60px;
+}
+
+.main-para {
+    color: white;
+    font-size: 20px;
+}
+
+.main-href {
+    text-decoration: none;
+    padding: 12px;
+    color: white;
+    background-color: rgb(255, 38, 38);
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.donate-btn {
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left: 46%;
+}
+
+input {
+    border: none;
+    outline: none;
+    margin-left: 46%;
+
+}
+
+hr {
+    margin: auto;
+    width: 50%;
+}
+
+.header-text {
+    text-align: center;
+    font-size: 40px;
+}
+
+.donate-para {
+    text-align: center;
+
+}
+
+.donate-today {
+    padding: 10px;
+}
+
+.money-amount {
+    display: flex;
+    margin-left: 33%;
+
+
+
+}
+
+.money-amount h3 {
+    background-color: rgb(226, 226, 226);
+    padding: 15px;
+    margin: 10px;
+
+}
+
+#money-color {
+    background-color: pink;
+    border: 1px solid red;
+    color: red;
+
+}
+
+.donate-plan-container {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+
+
+}
+
+.donate-plan-child {
+    margin-left: 15px;
+    margin-right: 10px;
+    padding-left: 15px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+}
+
+.color1 {
+    background-color: rgb(223, 236, 236);
+}
+
+.color2 {
+    background-color: rgb(243, 198, 206);
+}
+
+.color3 {
+    background-color: rgb(244, 233, 206);
+}
